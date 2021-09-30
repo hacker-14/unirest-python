@@ -48,7 +48,7 @@ response.body # The parsed response
 response.raw_body # The unparsed response
 ```
 
-## Asynchronous Requests
+## Asynchronous Requests and manage
 
 Python also supports asynchronous requests in which you can define a `callback` function to be passed along and invoked when Unirest receives the response:
 
